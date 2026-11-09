@@ -283,7 +283,7 @@ environments.
 
 #  Learning Outcomes
 
-This project demonstrates:
+This project demonstrates:-
 
 -   ML system deployment
 -   Model serving with Triton
